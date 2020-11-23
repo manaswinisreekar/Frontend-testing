@@ -1,0 +1,22 @@
+.rating-bg-color{
+    background-color: #FFCC00;
+    color: white;
+    padding: 4px 4px 4px 5px;
+    white-space: nowrap;
+}
+
+.rating-main-contnr{
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row;
+    padding: 3%;
+}
+
+.avg-price{
+    padding: 4px 4px 4px 5px;
+    margin-left: auto;
+}
+.cardContainer{
+    width:100% !important;
+    height:100% !important;
+}
